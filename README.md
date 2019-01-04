@@ -1,2 +1,2 @@
 # Soapy
-Personal Site
+# TODO: Randomnize colors and caption
